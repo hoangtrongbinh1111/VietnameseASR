@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+model/acoustic_model.bin
+model/feature_extractor.bin
+model/language_model.bin
+model/decoder_options.json
+model/lexicon.txt
+model/tokens.txt
