@@ -15,6 +15,8 @@
     docker run -p 5001:5001 --gpus all -itd --ipc=host --volume /full/path/to
 /vietnamese-wave2letter-stream-convnet-web-demo:/root/src --name w2l wav2letter/wav2letter:inference-latest
 ```
+### Download model and import to folder
+https://drive.google.com/file/d/1uRGJM25pm3FcIUsnmgGfyMuThWWmtEti/view?usp=sharing
 ## For using CPU
 ### Create docker container
 ```
